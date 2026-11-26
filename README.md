@@ -3,7 +3,7 @@
   <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=Se7enSins-Uploader">
     <img src="https://raw.githubusercontent.com/StonedModder/unleashedapi/main/assets/banner.png" alt="UnleashedAPI — uncensored OpenAI-compatible AI API. Free to start." width="100%">
   </a><br>
-  Drop-in OpenAI-compatible endpoint. <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=Se7enSins-Uploader"><strong>UnleashedAPI</strong></a> — uncensored models, free to start.
+  <a href="https://unleashedapi.com/?utm_source=github&utm_medium=readme&utm_campaign=stonedmodder&utm_content=Se7enSins-Uploader"><strong>UnleashedAPI</strong></a> — uncensored OpenAI-compatible models. Free to start, no prompt logging.
 </p>
 
 # Se7enSins Uploader
